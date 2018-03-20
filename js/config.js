@@ -46,16 +46,16 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"staar1",
-	"staar2",
-	"staar3",
-	"staar4",
-	"staar5",
-	"staar6",
-	"staar7",
-	"staar8",
-	"staar9",
-	"staar10",
+	"staar1.jpg",
+	"staar2.jpg",
+	"staar3.jpg",
+	"staar4.jpg",
+	"staar5.jpg",
+	"staar6.jpg",
+	"staar7.jpg",
+	"staar8.jpg",
+	"staar9.jpg",
+	"staar10.jpg",
 ];
 
 /*(Image-background only)
