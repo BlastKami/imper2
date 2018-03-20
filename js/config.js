@@ -39,7 +39,7 @@ You need to have a background image with the same name as the map
 Also, the image needs to be in .jpg format
 E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 'true' or 'false'*/
-var l_bgImageMapBased = false;
+var l_bgImageMapBased = true;
 
 /*(Image-background only)
 Place one or more images
